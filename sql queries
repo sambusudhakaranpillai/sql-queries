@@ -37,3 +37,31 @@ CREATE TABLE Persons (
     Age int,
     PRIMARY KEY (ID)
 );
+
+
+id
+name
+age
+marks
+email
+2
+archana
+22
+89
+archana@example.com
+4
+Anu
+21
+78
+anuexample.com
+5
+Ravi
+23
+82
+ravi@example.com
+6
+Meera
+22
+91
+meera@example.com
+
